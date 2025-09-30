@@ -10,7 +10,7 @@ test-cases:
 
   - summary: |
       Проверка фильтрации товаров по цене
-    status: fail
+    status: pass
 
   - summary: |
       Проверка фильтрации товаров по производителю
