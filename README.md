@@ -14,8 +14,11 @@
 requirements.yml
 
 Содержит: 
+
 functional — функциональные требования
+
 non-functional — нефункциональные требования
+
 implicit — неявные требования
 
 test-cases.yml
