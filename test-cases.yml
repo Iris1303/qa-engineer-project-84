@@ -78,7 +78,7 @@
     no-data
   steps:
     - Выбрать любой товар из каталога, например "Milk"
-    - Открыть выбранный товар https://hexlet-products-store.vercel.app/products/32
+    - Открыть выбранный товар, нажав на название товара https://hexlet-products-store.vercel.app/products/32
   expected-result: |
     Открывается карточка с подробным описанием товара: название, рейтинг, цена со скидкой и без нее
 
