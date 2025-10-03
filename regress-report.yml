@@ -9,7 +9,7 @@ test-cases:
     status: pass
 
   - summary: |
-   Проверка фильтрации товаров по цене
+      Проверка фильтрации товаров по цене
     status: fail
 
   - summary: |
