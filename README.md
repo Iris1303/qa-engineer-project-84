@@ -2,6 +2,7 @@
 [![Actions Status](https://github.com/Iris1303/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Iris1303/qa-engineer-project-84/actions)
 
 Тестирование интернет-магазина
+
 Учебный проект https://hexlet-products-store-ru.hexlet.app/
 
 Описание:
