@@ -30,7 +30,7 @@ test-cases:
 
 - summary: |
     Успешное добавление разных наименований товаров в корзину
-  status: pass
+  status: fail
 
 - summary:
     Просмотр содержимого корзины
@@ -114,6 +114,10 @@ test-cases:
 
 - summary: |
     Проверка отправки запросов на сервер при оформлении заказа
+  status: fail
+
+- summary: |
+    Проверка выбора русской локализации сайта  
   status: fail
 
 bugreports:
