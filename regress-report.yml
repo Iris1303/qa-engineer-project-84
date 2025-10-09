@@ -22,7 +22,7 @@ test-cases:
 
 - summary: |
     Проверка открытия карточки товара
-  status: fail
+  status: pass
 
 - summary: |
     Успешное добавление товара в корзину
